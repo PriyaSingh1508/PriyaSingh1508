@@ -1,4 +1,4 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/125864256?s=96&v=4)]()
+[![MasterHead](https://user-images.githubusercontent.com/45071341/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)](https://PriyaSingh1508.io)
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
  
